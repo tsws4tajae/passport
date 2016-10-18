@@ -1,0 +1,47 @@
+/*==================================================
+	Sitewide Styles
+==================================================*/
+/*select all things - seriously use this one very wisely*/
+
+}
+/*select the body tag*/
+body {
+
+
+}
+div{background-color: #FF66CC;
+	width: 499px;
+	height: 583px;
+	
+}
+.a{font-size: 50px;
+	position:relative;
+	left: 129px;
+}
+.b{position: relative;
+	left: 29px;
+	top: -4px; 
+	font-size: 45px;
+}
+img{position: relative;
+	width: 153px;
+	left: 162px;
+	top: 13px;
+
+}
+.c{font-size: 50px;
+	position:relative;
+	left: 29px;
+	top: -263px;
+
+}
+.d{font-size: 40px;
+	position:relative;
+	left: 131px;
+	top: -135px;
+	}
+
+.e{font-size: 40px;
+	position:relative;
+	left: 131px;
+	top: -169px;}
